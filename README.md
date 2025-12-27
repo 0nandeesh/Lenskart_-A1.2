@@ -1,4 +1,7 @@
 # Lenskart AI Search Platform
+Lenskart AI Search Platform is a cutting-edge, modular, and production-ready AI-powered contextual search system built specifically for intelligent product discovery at scale. It combines the speed of FastAPI, the interactivity of Streamlit, and the intelligence of Groq-powered LLMs with FAISS vector search to deliver natural language understanding, semantic relevance, and behavior-based ranking. Designed for real-world e-commerce scenarios, it provides transparent search explanations, personalized user experiences, and comprehensive performance analytics—all in one unified platform.
+
+
 
 <div align="center">
 
