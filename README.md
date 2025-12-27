@@ -34,6 +34,13 @@
 - 📊 Real-time analytics and performance insights
 - 🛒 Complete user journey from search to purchase
 
+---
+
+**What's in the demo:**
+- 🔍 Natural language search with semantic understanding
+- 🎯 AI-powered result ranking and explanations
+- 📊 Real-time analytics and performance insights
+- 🛒 Complete user journey from search to purchase
 
 ---
 
@@ -367,7 +374,13 @@ Expected output:
 ### Search Experience
 
 <div align="center">
-<img src="docs/images/search-interface.png" alt="Search Interface" width="700"/>
+<img src="docs/images/Screenshot%202025-12-27%20171833.png" alt="Search Interface" width="700"/>
+<p><i>Contextual search understanding user intent</i></p>
+</div>
+
+<div align="center">
+<img src="docs/images/1234.png" alt="Content-based Search Results" width="700"/>
+<p><i>Content-based search results showing semantic understanding</i></p>
 </div>
 
 **Natural Language Queries:**
@@ -375,6 +388,33 @@ Expected output:
 - "list glass which have rating 4.0 and above"
 - "sunglasses under 150"
 - "i need a Cat-Eye Sunglasses"
+
+#### 🎯 Contextual Search vs Keyword Search
+
+Our platform implements **content-based semantic search** rather than traditional keyword matching:
+
+**Traditional Keyword Search:**
+- ❌ Matches exact words only
+- ❌ Fails on typos or synonyms
+- ❌ Doesn't understand user intent
+- ❌ "cheap glasses" won't match "affordable eyewear"
+
+**Our Contextual Search:**
+- ✅ **Semantic Understanding**: Understands meaning, not just words
+- ✅ **Intent Recognition**: "glasses for office work" → finds blue light blocking glasses
+- ✅ **Synonym Handling**: "affordable" = "cheap" = "budget-friendly" = "under $50"
+- ✅ **Query Expansion**: Automatically adds related terms via Groq LLM
+- ✅ **Vector Similarity**: FAISS embeddings capture product semantics
+- ✅ **Natural Language**: Ask questions like you'd talk to a friend
+
+**Example:**
+```
+Query: "stylish frames for reading at night"
+→ System understands: User wants reading glasses + blue light protection + aesthetic design
+→ Results: Blue light blocking reading glasses with modern designs
+```
+
+This approach delivers relevant results even when users don't know exact product terminology!
 
 ### Dynamic Filters
 
@@ -848,6 +888,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Made with ❤️ by **Nandeesh CM**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0nandeesh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandeesh-cm-703b92285/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandeeshnandeesh666@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandeesh-cm-703b92285/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandeeshnandeesh666@gmail.com)
 
 </div>
