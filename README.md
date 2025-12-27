@@ -413,8 +413,6 @@ Expected output:
 <p><i>Content-based search results showing semantic understanding</i></p>
 </div>
 
-**Natural Language Queries Used:**
-
 
 
 **Why Natural Language?**
