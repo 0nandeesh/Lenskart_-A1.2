@@ -1,0 +1,20 @@
+INFO:sentence_transformers.SentenceTransformer:Load pretrained SentenceTransformer: sentence-transformers/all-MiniLM-L6-v2
+C:\Users\nande\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\huggingface_hub\utils\_deprecation.py:131: FutureWarning: 'cached_download' (from 'huggingface_hub.file_download') is deprecated and will be removed from version '0.26'. Use `hf_hub_download` instead.
+  warnings.warn(warning_message, FutureWarning)
+C:\Users\nande\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\torchvision\io\image.py:13: UserWarning: Failed to load image Python extension: 'Could not find module 'C:\Users\nande\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\torchvision\image.pyd' (or one of its dependencies). Try using the full path with constructor syntax.'If you don't plan on using image functionality from `torchvision.io`, you can ignore this warning. Otherwise, there might be something wrong with your environment. Did you have `libjpeg` or `libpng` installed before building `torchvision` from source?
+  warn(
+C:\Users\nande\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\torchvision\datapoints\__init__.py:12: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+C:\Users\nande\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\torchvision\transforms\v2\__init__.py:54: UserWarning: The torchvision.datapoints and torchvision.transforms.v2 namespaces are still Beta. While we do not expect major breaking changes, some APIs may still change according to user feedback. Please submit any feedback you may have in this issue: https://github.com/pytorch/vision/issues/6753, and you can also check out https://github.com/pytorch/vision/issues/7319 to learn more about the APIs that we suspect might involve future changes. You can silence this warning by calling torchvision.disable_beta_transforms_warning().
+  warnings.warn(_BETA_TRANSFORMS_WARNING)
+INFO:sentence_transformers.SentenceTransformer:Use pytorch device: cpu
+Project Root: C:\Users\nande\OneDrive\Desktop\Lenskart_A1.2 - Copy (2)
+Vector DB Path: ./data/vector_db
+Embedding Model: sentence-transformers/all-MiniLM-L6-v2
+
+Initializing VectorDB...
+VectorDB Initialized.
+
+Testing Search...
+Batches:   0%|          | 0/1 [00:00<?, ?it/s]Batches: 100%|##########| 1/1 [00:00<00:00,  1.53it/s]Batches: 100%|##########| 1/1 [00:00<00:00,  1.52it/s]
+Search Results: [('prod_009', 0.6137462258338928), ('prod_009', 0.6137461960315704), ('prod_011', 0.5971123278141022), ('prod_011', 0.597112238407135), ('prod_007', 0.5947928130626678), ('prod_007', 0.5947927236557007), ('prod_003', 0.5870442688465118), ('prod_003', 0.5870442092418671), ('prod_001', 0.5413132011890411), ('prod_001', 0.5413131415843964), ('prod_005', 0.5411223769187927), ('prod_005', 0.5411223769187927), ('prod_002', 0.4975307583808899), ('prod_002', 0.4975307583808899), ('prod_004', 0.4944392442703247), ('prod_004', 0.49443912506103516), ('prod_012', 0.4760280251502991), ('prod_012', 0.4760280251502991), ('prod_006', 0.46557295322418213), ('prod_006', 0.46557295322418213)]

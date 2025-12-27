@@ -1,0 +1,195 @@
+[
+  {
+    "id": "prod_001",
+    "title": "Classic Aviator Sunglasses",
+    "description": "Timeless aviator style with UV protection and lightweight metal frame. Perfect for everyday wear and outdoor activities.",
+    "category": "Sunglasses",
+    "price": 129.99,
+    "rating": 4.5,
+    "attributes": {
+      "brand": "Lenskart",
+      "size": "Medium",
+      "color": "Black",
+      "material": "Metal",
+      "style": "Aviator"
+    },
+    "image_url": null
+  },
+  {
+    "id": "prod_002",
+    "title": "Round Retro Eyeglasses",
+    "description": "Vintage-inspired round frames with blue light filtering lenses. Ideal for computer work and reading.",
+    "category": "Eyeglasses",
+    "price": 89.99,
+    "rating": 4.2,
+    "attributes": {
+      "brand": "Lenskart",
+      "size": "Large",
+      "color": "Brown",
+      "material": "Acetate",
+      "style": "Round"
+    },
+    "image_url": null
+  },
+  {
+    "id": "prod_003",
+    "title": "Sport Polarized Sunglasses",
+    "description": "High-performance polarized lenses with wraparound design. Excellent for sports and driving.",
+    "category": "Sunglasses",
+    "price": 159.99,
+    "rating": 4.7,
+    "attributes": {
+      "brand": "Lenskart",
+      "size": "One Size",
+      "color": "Blue",
+      "material": "Plastic",
+      "style": "Sport"
+    },
+    "image_url": null
+  },
+  {
+    "id": "prod_004",
+    "title": "Square Black Eyeglasses",
+    "description": "Modern square frames with anti-reflective coating. Professional look for office wear.",
+    "category": "Eyeglasses",
+    "price": 79.99,
+    "rating": 4.0,
+    "attributes": {
+      "brand": "Lenskart",
+      "size": "Medium",
+      "color": "Black",
+      "material": "Acetate",
+      "style": "Square"
+    },
+    "image_url": null
+  },
+  {
+    "id": "prod_005",
+    "title": "Cat-Eye Sunglasses",
+    "description": "Fashion-forward cat-eye design with gradient lenses. Perfect for a stylish summer look.",
+    "category": "Sunglasses",
+    "price": 99.99,
+    "rating": 4.3,
+    "attributes": {
+      "brand": "Lenskart",
+      "size": "Medium",
+      "color": "Tortoise",
+      "material": "Acetate",
+      "style": "Cat-Eye"
+    },
+    "image_url": null
+  },
+  {
+    "id": "prod_006",
+    "title": "Reading Glasses with Chain",
+    "description": "Convenient reading glasses with attached chain. Perfect for seniors and frequent readers.",
+    "category": "Eyeglasses",
+    "price": 49.99,
+    "rating": 4.1,
+    "attributes": {
+      "brand": "Lenskart",
+      "size": "One Size",
+      "color": "Silver",
+      "material": "Metal",
+      "style": "Reading"
+    },
+    "image_url": null
+  },
+  {
+    "id": "prod_007",
+    "title": "Mirror Aviator Sunglasses",
+    "description": "Bold mirror finish aviator sunglasses with 100% UV protection. Great for sunny days.",
+    "category": "Sunglasses",
+    "price": 139.99,
+    "rating": 4.6,
+    "attributes": {
+      "brand": "Lenskart",
+      "size": "Large",
+      "color": "Silver",
+      "material": "Metal",
+      "style": "Aviator"
+    },
+    "image_url": null
+  },
+  {
+    "id": "prod_008",
+    "title": "Rimless Eyeglasses",
+    "description": "Lightweight rimless design with titanium frame. Minimalist and comfortable for all-day wear.",
+    "category": "Eyeglasses",
+    "price": 199.99,
+    "rating": 4.4,
+    "attributes": {
+      "brand": "Lenskart",
+      "size": "Medium",
+      "color": "Titanium",
+      "material": "Titanium",
+      "style": "Rimless"
+    },
+    "image_url": null
+  },
+  {
+    "id": "prod_009",
+    "title": "Oversized Round Sunglasses",
+    "description": "Trendy oversized round frames with UV400 protection. Fashion statement for the modern look.",
+    "category": "Sunglasses",
+    "price": 119.99,
+    "rating": 4.2,
+    "attributes": {
+      "brand": "Lenskart",
+      "size": "Large",
+      "color": "Black",
+      "material": "Acetate",
+      "style": "Round"
+    },
+    "image_url": null
+  },
+  {
+    "id": "prod_010",
+    "title": "Progressive Lens Eyeglasses",
+    "description": "Multi-focal progressive lenses for reading and distance. Ideal for presbyopia correction.",
+    "category": "Eyeglasses",
+    "price": 249.99,
+    "rating": 4.8,
+    "attributes": {
+      "brand": "Lenskart",
+      "size": "Medium",
+      "color": "Brown",
+      "material": "Acetate",
+      "style": "Rectangle"
+    },
+    "image_url": null
+  },
+  {
+    "id": "prod_011",
+    "title": "Wayfarer Style Sunglasses",
+    "description": "Classic wayfarer design with polarized lenses. Iconic style that never goes out of fashion.",
+    "category": "Sunglasses",
+    "price": 109.99,
+    "rating": 4.5,
+    "attributes": {
+      "brand": "Lenskart",
+      "size": "Medium",
+      "color": "Black",
+      "material": "Acetate",
+      "style": "Wayfarer"
+    },
+    "image_url": null
+  },
+  {
+    "id": "prod_012",
+    "title": "Blue Light Blocking Glasses",
+    "description": "Specialized blue light filtering glasses for digital eye strain. Perfect for computer users.",
+    "category": "Eyeglasses",
+    "price": 69.99,
+    "rating": 4.3,
+    "attributes": {
+      "brand": "Lenskart",
+      "size": "One Size",
+      "color": "Clear",
+      "material": "Plastic",
+      "style": "Rectangle"
+    },
+    "image_url": null
+  }
+]
+

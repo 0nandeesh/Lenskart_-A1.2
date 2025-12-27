@@ -1,0 +1,10 @@
+Name: huggingface_hub
+Version: 1.2.3
+Summary: Client library to download and publish models, datasets and other repos on the huggingface.co hub
+Home-page: https://github.com/huggingface/huggingface_hub
+Author: Hugging Face, Inc.
+Author-email: julien@huggingface.co
+License: Apache
+Location: C:\Users\nande\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages
+Requires: filelock, fsspec, hf-xet, httpx, packaging, pyyaml, shellingham, tqdm, typer-slim, typing-extensions
+Required-by: accelerate, peft, sentence-transformers, tokenizers, transformers
