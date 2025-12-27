@@ -12,7 +12,7 @@
 [![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/facebookresearch/faiss)
 [![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=ai&logoColor=white)](https://groq.com/)
 
-[Demo Video](#-demo-video) • [Features](#-features) • [Quick Start](#-quick-start) • [API Docs](#-api-requirements)
+[Demo Video](#-demo-video) • [Features](#-features) • [Quick Start](#-quick-start) • [API Docs](#-api-reference)
 
 </div>
 
@@ -22,9 +22,11 @@
 
 <div align="center">
 
-![Watch the Demo](docs/images/demo-video.mp4)
+<a href="docs/images/demo-video.mp4" download="Lenskart-AI-Search-Demo.mp4">
+  <img src="docs/images/watch-video-button-isolated-on-white-bakcground-design-vector.jpg" alt="Watch Demo Video" width="300"/>
+</a>
 
-*Walkthrough of the platform functionality*
+*Click the button above to download and watch the demo video*
 
 </div>
 
