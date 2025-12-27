@@ -34,13 +34,6 @@
 - 📊 Real-time analytics and performance insights
 - 🛒 Complete user journey from search to purchase
 
----
-
-**What's in the demo:**
-- 🔍 Natural language search with semantic understanding
-- 🎯 AI-powered result ranking and explanations
-- 📊 Real-time analytics and performance insights
-- 🛒 Complete user journey from search to purchase
 
 ---
 
