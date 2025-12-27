@@ -22,11 +22,15 @@
 
 <div align="center">
 
-<a href="docs/images/demo-video.mp4" download="Lenskart-AI-Search-Demo.mp4">
-  <img src="docs/images/watch-video-button-isolated-on-white-bakcground-design-vector.jpg" alt="Watch Demo Video" width="300"/>
-</a>
+[![Watch Demo Video](docs/images/watch-video-button-isolated-on-white-bakcground-design-vector.jpg)](docs/images/demo-video.mp4)
 
 *Click the button above to download and watch the demo video*
+
+**What's in the demo:**
+- 🔍 Natural language search with semantic understanding
+- 🎯 AI-powered result ranking and explanations
+- 📊 Real-time analytics and performance insights
+- 🛒 Complete user journey from search to purchase
 
 </div>
 
