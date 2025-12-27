@@ -479,78 +479,22 @@ This approach delivers relevant results even when users don't know exact product
 
 <div align="center">
 <img src="docs/images/Screenshot%202025-12-27%20200320.png" alt="Purchase Flow" width="700"/>
-<p><i>One-click purchase flow from search results</i></p>
+<p><i>One-click actions to help users make quick purchase decisions</i></p>
 </div>
 
-**How This Helps Users Make Purchase Decisions:**
+**Three Clear Action Options:**
 
-The platform provides **three clear action options** directly from search results to minimize friction:
+1. **🛒 Add to Cart** - Save products for later comparison
+2. **💳 Purchase Now** - Direct one-click checkout for confident buyers  
+3. **👁️ View Details** - Explore complete product information
 
-**1. 🛒 Add to Cart**
-- **Purpose**: Save products for later comparison
-- **User Benefit**: Build a collection without commitment
-- **Business Value**: Captures purchase intent, reduces decision paralysis
-- **Analytics Impact**: Tracks "add to cart" rate for product popularity
+**How This Helps:**
+- ✅ **Reduces Friction**: Clear actions eliminate confusion
+- ✅ **Flexible Shopping**: Choose your preferred buying style
+- ✅ **Faster Decisions**: Multiple pathways to purchase
+- ✅ **Better Learning**: Each action helps improve future recommendations
 
-**2. 💳 Purchase Now**
-- **Purpose**: Direct one-click purchase for confident buyers
-- **User Benefit**: Skip extra steps, fastest checkout
-- **Business Value**: Reduces cart abandonment, maximizes conversions
-- **Analytics Impact**: High-intent signal, strongest behavioral score boost
-
-**3. 👁️ View Details**
-- **Purpose**: Explore full product information before deciding
-- **User Benefit**: Make informed decisions with complete specs
-- **Business Value**: Engages users deeply, builds trust
-- **Analytics Impact**: Measures product interest, dwell time tracking
-
-#### 📊 **Purchase Journey Analytics**
-
-Every action feeds the learning system:
-
-```
-Search → View → Add to Cart → Purchase
-  ↓       ↓         ↓            ↓
- 0.1    +0.2      +0.4         +1.0  (Score Impact)
-```
-
-**Real-World Impact:**
-
-| User Action | Immediate Benefit | Long-term System Learning |
-|-------------|-------------------|---------------------------|
-| **View Details** | See specs, images, reviews | Product gets visibility boost |
-| **Add to Cart** | Save for later, compare options | High-intent signal recorded |
-| **Purchase** | Get product quickly | Product ranking significantly increased |
-
-**Conversion Optimization:**
-
-- ✅ **Reduced Friction**: 3 clear options eliminate confusion
-- ✅ **Choice Architecture**: Purchase button prominent but not pushy
-- ✅ **Progressive Disclosure**: Details available but not overwhelming
-- ✅ **Social Proof**: Ratings visible at every step
-
-**Example User Journey:**
-
-```
-1. User searches: "blue light glasses"
-2. Views results with clear CTAs
-3. Clicks "View Details" → System records interest
-4. Reads specs, sees 4.5★ rating
-5. Clicks "Add to Cart" → System notes high intent
-6. Compares with 2 other products
-7. Returns, clicks "Purchase" → Conversion!
-8. Product gets massive ranking boost for future searches
-```
-
-**Why This Approach Works:**
-
-- 🎯 **Clear Options**: No confusion about what to do next
-- ⚡ **Speed**: One-click purchase for quick decisions
-- 🤔 **Flexibility**: View details for careful shoppers
-- 📈 **Learning**: Every action improves future recommendations
-- 💰 **Revenue**: Higher conversion rate = more sales
-
-The result: **15.48% conversion rate** (5x industry average of 3%) by making the purchase journey effortless!
+Every user action (view, cart, purchase) feeds back into the system to improve product rankings for future searches.
 
 #### 🎯 **Transparent Scoring System**
 
