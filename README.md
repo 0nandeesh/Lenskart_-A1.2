@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![Watch Demo Video](./docs/images/watch-video-button-isolated-on-white-bakcground-design-vector.jpg)](./docs/images/demo-video.mp4)
+[![Watch Demo Video](./docs/images/Screenshot%202025-12-27%20130907.png)](./docs/images/demo-video.mp4)
 
 *Click here to download the demo video*
 
