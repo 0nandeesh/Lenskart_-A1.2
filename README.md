@@ -363,7 +363,7 @@ Expected output:
 ### Login & Authentication
 
 <div align="center">
-<img src="docs/images/login-screen.png" alt="Login Screen" width="600"/>
+<img src="docs/images/Screenshot%202025-12-27%20025331.png" alt="Login Screen" width="600"/>
 </div>
 
 **Features:**
