@@ -49,7 +49,7 @@
 ### 🔐 User Authentication & Personalization
 
 <div align="center">
-<img src="docs/images/login-screen.png" alt="Login Screen" width="700"/>
+<img src="docs/images/Screenshot%202025-12-27%20025331.png" alt="Login Screen" width="700"/>
 <p><i>Secure authentication with personalized user experiences</i></p>
 </div>
 
