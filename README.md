@@ -22,11 +22,28 @@
 
 <div align="center">
 
-https://github.com/user-attachments/assets/YOUR_VIDEO_ID_HERE
+### Option 1: YouTube Embed (Recommended)
+[![Lenskart AI Search Platform Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-**[▶️ Click to play the demo video](docs/images/demo-video.mp4)**
+**[▶️ Watch Full Demo on YouTube](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)**
 
-*Walkthrough of the platform functionality*
+---
+
+### Option 2: Direct Video Link
+📹 **[Click here to download and watch the demo video](docs/images/demo-video.mp4)**
+
+---
+
+### Option 3: GIF Preview (if available)
+![Demo Walkthrough](docs/images/demo-video.gif)
+
+---
+
+### Option 4: HTML5 Video (may not work on all platforms)
+<video width="700" controls>
+  <source src="docs/images/demo-video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 </div>
 
