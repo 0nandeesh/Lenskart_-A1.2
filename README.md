@@ -388,34 +388,6 @@ Expected output:
 <p><i>Content-based search results showing semantic understanding</i></p>
 </div>
 
-**Natural Language Queries Used:**
-
-Our platform supports conversational, natural language searches that understand user intent:
-
-1. **Context-Aware Queries:**
-   - "blue light glasses for office work"
-   - "stylish frames for reading at night"
-   - "comfortable glasses for long computer use"
-
-2. **Rating-Based Queries:**
-   - "list glass which have rating 4.0 and above"
-   - "show me highly rated sunglasses"
-   - "best reviewed eyeglasses"
-
-3. **Price-Conscious Queries:**
-   - "sunglasses under 150"
-   - "affordable reading glasses"
-   - "budget-friendly eyewear under $100"
-
-4. **Style-Specific Queries:**
-   - "i need a Cat-Eye Sunglasses"
-   - "round frames for women"
-   - "modern aviator sunglasses"
-
-5. **Feature-Based Queries:**
-   - "polarized sunglasses for driving"
-   - "anti-glare glasses for night driving"
-   - "UV protection sunglasses for outdoor sports"
 
 **Why Natural Language?**
 - 🗣️ **Conversational**: Talk to the search like you'd ask a friend
