@@ -479,6 +479,46 @@ Expected output:
 - ✅ **Personalized Search per User**: User-specific search history and behavior tracking
 - ✅ **Query Analytics Dashboard**: Comprehensive analytics with CTR, conversion rates, and performance metrics
 
+### 🧠 Learning Logic
+
+The platform implements a sophisticated learning system that continuously improves search results based on user behavior:
+
+#### **1. Behavioral Signal Collection**
+- **Click Tracking**: Records when users click on search results
+- **Add to Cart Events**: Captures product additions to shopping cart
+- **Purchase Conversions**: Tracks completed transactions
+- **Dwell Time**: Monitors how long users engage with products
+
+#### **2. Scoring Algorithm**
+The final relevance score combines three key components:
+
+```
+Final Score = (Semantic Score × 0.4) + (CTR Score × 0.3) + (Conversion Score × 0.3)
+```
+
+**Components:**
+- **Semantic Score (40%)**: FAISS vector similarity between query and product
+- **CTR Score (30%)**: Click-through rate for query-product pairs
+- **Conversion Score (30%)**: Purchase conversion rate for the product
+
+#### **3. Real-Time Learning Loop**
+1. User searches → System returns results based on semantic + behavioral scores
+2. User interacts (click/cart/purchase) → Event captured asynchronously via Redis
+3. Behavioral metrics updated in MySQL → CTR and conversion rates recalculated
+4. Next search → Updated scores influence ranking immediately
+
+#### **4. Adaptive Weight Tuning**
+The system allows dynamic adjustment of ranking weights based on performance:
+- Low CTR? Increase semantic weight for better initial relevance
+- Low conversions? Boost conversion weight to prioritize high-converting products
+- High zero-results? Enable aggressive query expansion
+
+#### **5. Feedback Loop Benefits**
+- ✅ **Self-improving**: Better results over time without manual intervention
+- ✅ **Personalized**: User-specific behavior influences their future searches
+- ✅ **Transparent**: AI explanations show why products are recommended
+- ✅ **Measurable**: Analytics dashboard tracks improvement metrics
+
 ### Data Flow Architecture
 
 ```mermaid
