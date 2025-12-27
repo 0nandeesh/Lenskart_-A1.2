@@ -475,6 +475,10 @@ Expected output:
 - ✅ Transparent explanations
 - ✅ Attribute extraction from descriptions
 
+**Bonus Features Implemented (Optional):**
+- ✅ **Personalized Search per User**: User-specific search history and behavior tracking
+- ✅ **Query Analytics Dashboard**: Comprehensive analytics with CTR, conversion rates, and performance metrics
+
 ### Data Flow Architecture
 
 ```mermaid
@@ -807,10 +811,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Developed for Lenskart Assessment A1.2**
 
-![Lenskart](https://www.lenskart.com/lenskart-logo.svg)
+<img src="docs/images/lenskart-logo.png" alt="Lenskart" width="200"/>
 
-Made with ❤️ by **Your Name**
+Made with ❤️ by **Nandeesh CM**
 
-[GitHub](https://github.com/yourusername) • [LinkedIn](https://linkedin.com/in/yourusername) • [Email](mailto:your.email@example.com)
+[GitHub](https://github.com/yourusername) • [LinkedIn](https://www.linkedin.com/in/nandeesh-cm-703b92285/) • [Email](mailto:nandeeshnandeesh666@gmail.com)
 
 </div>
