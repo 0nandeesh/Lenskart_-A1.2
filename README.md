@@ -12,7 +12,7 @@
 [![FAISS](https://img.shields.io/badge/FAISS-00ADD8?style=for-the-badge&logo=meta&logoColor=white)](https://github.com/facebookresearch/faiss)
 [![Groq](https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=ai&logoColor=white)](https://groq.com/)
 
-[Demo Video](#-demo-video) • [Features](#-features) • [Quick Start](#-quick-start) • [API Docs](#-api-requirements)
+[Demo Video](#-demo-video) • [Features](#-features) • [Quick Start](#-quick-start) • [API Docs](#-api-reference)
 
 </div>
 
@@ -22,11 +22,19 @@
 
 <div align="center">
 
-![Watch the Demo](docs/images/demo-video.mp4)
+[![Watch Demo Video](./docs/images/watch-video-button-isolated-on-white-bakcground-design-vector.jpg)](./docs/images/demo-video.mp4)
 
-*Walkthrough of the platform functionality*
+*Click here to download the demo video*
 
 </div>
+
+**What's in the demo:**
+- 🔍 Natural language search with semantic understanding
+- 🎯 AI-powered result ranking and explanations
+- 📊 Real-time analytics and performance insights
+- 🛒 Complete user journey from search to purchase
+
+---
 
 **What's in the demo:**
 - 🔍 Natural language search with semantic understanding
