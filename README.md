@@ -416,6 +416,24 @@ Expected output:
 <p><i>Content-based search results showing semantic understanding</i></p>
 </div>
 
+<div align="center">
+<img src="docs/images/Screenshot%202025-12-28%20083930.png" alt="Natural Language Search Examples" width="700"/>
+<p><i>Platform handling diverse natural language queries with contextual understanding</i></p>
+</div>
+
+**Example Natural Language Queries:**
+
+```
+"Eyewear reduces glare, eye strain, comfortable for long drives"
+
+"I work long hours in front of a computer and often feel eye strain by the end of the day. 
+I want something comfortable that reduces fatigue and glare."
+
+"blue light glasses for office work"
+
+"UV protection and lightweight metal frame. Perfect for everyday wear and outdoor activities."
+```
+
 
 
 **Why Natural Language?**
