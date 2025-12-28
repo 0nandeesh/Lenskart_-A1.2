@@ -1,7 +1,11 @@
 # 🔍 Lenskart AI Search Platform
 ## Introduction
 
+<div align="justify">
+
 Traditional keyword-based search systems fail to understand user intent, context, and behavioral signals—resulting in poor product discovery and lost conversions. Modern e-commerce demands intelligent search that combines semantic understanding, behavioral learning, and continuous improvement to deliver truly relevant results.
+
+</div>
 
 <div align="center">
 
