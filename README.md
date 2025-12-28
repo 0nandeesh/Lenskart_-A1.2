@@ -1,13 +1,20 @@
-# Lenskart AI Search Platform
-Lenskart AI Search Platform is a cutting-edge, modular, and production-ready AI-powered contextual search system built specifically for intelligent product discovery at scale. It combines the speed of FastAPI, the interactivity of Streamlit, and the intelligence of Groq-powered LLMs with FAISS vector search to deliver natural language understanding, semantic relevance, and behavior-based ranking. Designed for real-world e-commerce scenarios, it provides transparent search explanations, personalized user experiences, and comprehensive performance analytics—all in one unified platform.
-
-
+Traditional keyword-based search systems fail to understand user intent, context, and behavioral signals—resulting in poor product discovery and lost conversions. Modern e-commerce demands intelligent search that combines semantic understanding, behavioral learning, and continuous improvement to deliver truly relevant results.
+Lenskart AI Search Platform is a cutting-edge, production-ready contextual search system built to solve this problem. It demonstrates how AI-powered search should work in real-world e-commerce scenarios by:
 
 <div align="center">
 
 ![Lenskart AI Search Platform](docs/images/hero-banner.png)
 
 **A production-ready, modular AI-powered contextual search platform designed for Lenskart**
+
+
+🧠 Understanding Natural Language: Processing queries like "comfortable glasses for long computer use" instead of rigid keyword matching
+🎯 Learning from Behavior: Continuously improving rankings based on user clicks, carts, and purchases
+⚡ Real-Time Adaptation: Updating search relevance immediately as users interact with products
+🔍 Semantic Relevance: Using FAISS vector search to match intent, not just keywords
+📊 Complete Observability: Providing transparent analytics and AI explanations for every decision
+
+
 
 [![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
